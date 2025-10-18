@@ -36,6 +36,10 @@ Next, it will ask for you to select a folder to install Samsara files to. It's r
 * First, calm down and take deep breaths :)
 * Join the Discord link or submit a ticket here
 
+# Where is the source code
+
+Sorry, for now the launcher is a trade secret. But there are plans to release the source code after the launcher has been on the market for a little while.
+
 # Additional notes
 
 You can locate the cache in "%localappdata%/Samsara Reincarnation". If you're having problems with getting the launcher to launch at all, deleting this may help give you a clean slate.
