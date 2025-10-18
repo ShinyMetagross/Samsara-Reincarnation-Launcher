@@ -8,9 +8,9 @@ Even if users handle that, they still have to make sure they have the correct lo
 
 # How to install?
 
-Extract the zip file to a folder, preferably on your desktop, called "Samsara Reincarnation".  When launched, the app will likely popup on your antivirus. If you can't trust this program, you probably shouldn't even be playing Samsara in the first place.
+Extract the zip file to a folder, preferably on your desktop, called "Samsara Reincarnation". When launched, the app will likely be blocked by your antivirus software. Do <ins>NOT</ins> panic about this, it just means that you'll have to manually exclude the program through your antivirus software. There is no malicious code or malware in the launcher.
 
-It will ask for you to select a folder to install Samsara files to. It's recommended to select the folder you installed this to, though you can pick another.
+Next, it will ask for you to select a folder to install Samsara files to. It's recommended to select the folder you installed this to, though you can pick another.
 
 # What can it do?
 
