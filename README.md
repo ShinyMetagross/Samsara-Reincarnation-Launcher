@@ -11,25 +11,25 @@ Extract the zip file to a folder, preferably on your desktop, called "Samsara Re
 It will ask for you to select a folder to install Samsara files to. It's recommended to select the folder you installed this to, though you can pick another.
 
 <h1>What can it do?</h1>
-- Launches Samsara Reincarnation
-- Allows easy switching between different developer branches of Samsara and it's addons
-- Autodetects commercial IWADs from various platforms
-- Allows users to download freeware addons from the internet in the event they do not have a commercial IWADs
-- Easy to use drag and drop system for file load orders (while keeping Samsara files clustered, load order issues is a thing of the past!)
-- Comes with preconfigured settings for all IWADs with better settings, so the average user may or may not need to change anything (Supports Steam Deck!)
-- Supports custom launch arguments
-- Lets you choose any version of GZDoom or Zandronum you want (provided Samsara is designed to run on said version, GZDoom may be dubious because of ZScript versions)
-- Has links to the Samsara Reincarnation wiki
+* Launches Samsara Reincarnation
+* Allows easy switching between different developer branches of Samsara and it's addons
+* Autodetects commercial IWADs from various platforms
+* Allows users to download freeware addons from the internet in the event they do not have a commercial IWADs
+* Easy to use drag and drop system for file load orders (while keeping Samsara files clustered, load order issues is a thing of the past!)
+* Comes with preconfigured settings for all IWADs with better settings, so the average user may or may not need to change anything (Supports Steam Deck!)
+* Supports custom launch arguments
+* Lets you choose any version of GZDoom or Zandronum you want (provided Samsara is designed to run on said version, GZDoom may be dubious because of ZScript versions)
+* Has links to the Samsara Reincarnation wiki
 
 <h1>What it will not do?</h1>
-- Download other files off the web
-- Be configured without atleast the base version of Samsara
-- Replace any of the games represented in this mod
-- Cure male pattern baldness
+* Download other files off the web
+* Be configured without atleast the base version of Samsara
+* Replace any of the games represented in this mod
+* Cure male pattern baldness
 
 <h1>Help, I am having an issue!</h1>
-- First, calm down and take deep breaths :)
-- Join the Discord link or submit a ticket here
+* First, calm down and take deep breaths :)
+* Join the Discord link or submit a ticket here
 
 <h1>Additional notes</h1>
 You can locate the cache in "%localappdata%/Samsara Reincarnation". If you're having problems with getting the launcher to launch at all, deleting this may help give you a clean slate.
