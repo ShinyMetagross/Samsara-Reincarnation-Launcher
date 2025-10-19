@@ -6,6 +6,10 @@ The Samsara Reincarnation launcher was designed and introduced to solve a common
 
 Even if users handle that, they still have to make sure they have the correct load order for Samsara. Historically, there has been a number of issues with this, and there are so many extensions that have to be managed. Most of the time, people are told to just use ZDL, but they still get the load order wrong. ZDL is also an older application and is not really supported anymore.
 
+# How to download:
+
+Click here to [Download](https://github.com/ShinyMetagross/Samsara-Reincarnation-Launcher/tags/latest)!
+
 # How to install?
 
 Extract the zip file to a folder, preferably on your desktop, called "Samsara Reincarnation". When launched, the app will likely be blocked by your antivirus software. Do <ins>NOT</ins> panic about this, it just means that you'll have to manually exclude the program through your antivirus software. There is no malicious code or malware in the launcher.
