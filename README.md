@@ -18,7 +18,7 @@ Next, it will ask for you to select a folder to install Samsara files to. It's r
 
 # What can it do?
 
-* Launches Samsara Reincarnation
+* Downloads, updates, and launches Samsara Reincarnation
 * Allows easy switching between different developer branches of Samsara and it's addons
 * Autodetects commercial IWADs from various platforms (supports Steam, GOG, Bethesda Launcher, XBOX App (Gamepass)
 * Allows users to download freeware addons from the internet in the event they do not have a commercial IWADs
