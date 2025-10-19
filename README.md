@@ -20,7 +20,7 @@ Next, it will ask for you to select a folder to install Samsara files to. It's r
 
 * Launches Samsara Reincarnation
 * Allows easy switching between different developer branches of Samsara and it's addons
-* Autodetects commercial IWADs from various platforms
+* Autodetects commercial IWADs from various platforms (supports Steam, GOG, Bethesda Launcher, XBox App (Gamepass))
 * Allows users to download freeware addons from the internet in the event they do not have a commercial IWADs
 * Easy to use drag and drop system for file load orders (while keeping Samsara files clustered, load order issues is a thing of the past!)
 * Comes with preconfigured settings for all IWADs with better settings, so the average user may or may not need to change anything (Supports Steam Deck!)
