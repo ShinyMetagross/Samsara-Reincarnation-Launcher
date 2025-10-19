@@ -8,7 +8,7 @@ Even if users handle that, they still have to make sure they have the correct lo
 
 # How to download:
 
-Click here to [Download](https://github.com/ShinyMetagross/Samsara-Reincarnation-Launcher/tags/latest)!
+Click here to [Download](https://github.com/ShinyMetagross/Samsara-Reincarnation-Launcher/releases/latest)!
 
 # How to install?
 
