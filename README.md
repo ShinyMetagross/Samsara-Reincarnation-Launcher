@@ -10,7 +10,7 @@ Even if users handle that, they still have to make sure they have the correct lo
 
 Extract the zip file to a folder, preferably on your desktop, called "Samsara Reincarnation". When launched, the app will likely be blocked by your antivirus software. Do <ins>NOT</ins> panic about this, it just means that you'll have to manually exclude the program through your antivirus software. There is no malicious code or malware in the launcher.
 
-Next, it will ask for you to select a folder to install Samsara files to. It's recommended to select the folder you installed this to, though you can pick another.
+Next, it will ask for you to select a folder to install Samsara files to. It's recommended to select the folder you installed this to, though you can pick another. It is <ins>NOT</ins> recommended to select your GZDoom or Zandronum folder!
 
 # What can it do?
 
